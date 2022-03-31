@@ -1,6 +1,7 @@
 # Python-In-Browser
 An example of how to use python in the browser using [Brython](https://brython.info/) 
- 
+ <br>
+<b><h2>Examples</h2></b>
 
 <b>Adding intergers:</b> 
 
@@ -29,6 +30,7 @@ document.body.html = (test)
 
 [Python In Browser Example - JSFiddle - Code Playground](https://jsfiddle.net/271per8h/) 
 
+<br><br><br>
 
 <b>Input Box Example:</b>
 
