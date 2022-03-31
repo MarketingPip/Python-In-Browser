@@ -164,6 +164,9 @@ dialog(draw_dialog,
 </script>
 ```
 
-[Python In Browser - Input Box - JSFiddle](https://jsfiddle.net/jh9kqw5b/) 
+[Python In Browser - Input Box (Check if Interger) - JSFiddle](https://jsfiddle.net/jh9kqw5b/) - Checks if input is interger! 
+
+[Python In Browser - Input Box (Display whatever you typed) - JSFiddle](https://jsfiddle.net/wp9cmLdy/) - Shows whatever you typed in the input box!
+
  
  
