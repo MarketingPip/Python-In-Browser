@@ -1,5 +1,7 @@
 # Python-In-Browser
 An example of how to use python in the browser using [Brython](https://brython.info/) 
+
+For more info on how to use Brython visit the [Brython documentation](https://brython.info/static_doc/en/intro.html) page
  <br>
 <b><h2>Examples</h2></b>
 
@@ -28,7 +30,7 @@ document.body.html = (test)
 </script>
 ```
 
-[Python In Browser Example - JSFiddle - Code Playground](https://jsfiddle.net/271per8h/) 
+[Python In Browser Example - JSFiddle](https://jsfiddle.net/271per8h/) 
 
 <br><br><br>
 
@@ -162,6 +164,6 @@ dialog(draw_dialog,
 </script>
 ```
 
-[Python In Browser - Input Box - JSFiddle - Code Playground](https://jsfiddle.net/jh9kqw5b/) 
+[Python In Browser - Input Box - JSFiddle](https://jsfiddle.net/jh9kqw5b/) 
  
  
